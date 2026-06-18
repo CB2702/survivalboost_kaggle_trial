@@ -1,5 +1,5 @@
 ### DATA IMPORT MLOPS ###
-from packages.rename.ml_source.data_import.data_import import import_data
+from packages.survivalboost_invoices.ml_source.data_import.data_import import import_data
 import logging
 import pandas as pd
 
